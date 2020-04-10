@@ -21,9 +21,6 @@ Database              : Sqlite
 ###### Menu management page
 ![menu_manage](https://user-images.githubusercontent.com/20842692/50056396-9e509180-0181-11e9-89f4-ea356c1a8862.png)
 
-###### Order History page
-![order_status](https://user-images.githubusercontent.com/20842692/50056409-d2c44d80-0181-11e9-8b3a-0266fc5f8436.png)
-
 
 #### Setup To Run
 ```
